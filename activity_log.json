@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1784044924386,
+    "type": "grammar_lesson",
+    "timestamp": "2026-07-14T16:02:04.386Z",
+    "details": {
+      "lessonId": "tamil-nouns",
+      "title": "தமிழ் பெயர்ச்சொற்கள் (Tamil Nouns)",
+      "language": "tamil"
+    }
+  },
+  {
+    "id": 1784045095316,
+    "type": "search",
+    "timestamp": "2026-07-14T16:04:55.316Z",
+    "details": {
+      "word": "Cartesian",
+      "tamil": "n. பிரஞ்சு மெய்ந்நுலாசிரியராகிய ரேனே டேகார்ட் (15ஹீ6-1650) என்பவரது மெய் விளக்கத்துறையைப் பின்பற்றுபவர், (பெ.) பிரஞ்சு மெய்ந் நுலாசிரியராகிய டேகார்ட் என்பவரது மெய்விளக்கத் துறைக்குரிய, டேகார்ட்டின் உடனிணைவு முறைமைக்குரிய.",
+      "searchMode": "tam-to-eng"
+    }
+  },
+  {
+    "id": 1784045104545,
+    "type": "search",
+    "timestamp": "2026-07-14T16:05:04.545Z",
+    "details": {
+      "word": "seer",
+      "tamil": "-1 n. பார்ப்பவர், மெய்யுணர்வாளர், அறிவர்.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045267256,
+    "type": "grammar_lesson",
+    "timestamp": "2026-07-14T16:07:47.256Z",
+    "details": {
+      "lessonId": "sentences",
+      "title": "Sentence Types (வாக்கிய வகைகள்)",
+      "language": "english"
+    }
+  },
+  {
+    "id": 1784045277624,
+    "type": "search",
+    "timestamp": "2026-07-14T16:07:57.624Z",
+    "details": {
+      "word": "mystic",
+      "tamil": "n. அறிவர், மறைஞானி, அறிவு கடந்த மெய்யுணர்வாளர், இறை உணர்வாளர், தனிநிலையிழந்தவர்,. இறைநிலை கலந்தவர், (பெயரடை) அகநிலை உணர்வுபெற்ற, மறைமெய்ம்மை சார்ந்த, அறிவுநிலை கடந்த, ஆழ்ந்த உட்பொருளுடைய, ஆன்மிகச் சார்பான, மறை ஆற்றலுடைய, தெய்வத் திறனுடைய.",
+      "searchMode": "tam-to-eng"
+    }
+  },
+  {
+    "id": 1784045298926,
+    "type": "search",
+    "timestamp": "2026-07-14T16:08:18.926Z",
+    "details": {
+      "word": "seer",
+      "tamil": "-1 n. பார்ப்பவர், மெய்யுணர்வாளர், அறிவர்.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045308881,
+    "type": "search",
+    "timestamp": "2026-07-14T16:08:28.881Z",
+    "details": {
+      "word": "dice",
+      "tamil": "n.pl. பகடை, சூதாட்டம், சூதாட்டப் பந்தயத்திலுள்ள இருதலை நிலை, (வினை) சூதாடு, பகடை வைத்தாடு, பெட்டிப் பகடையுருவாக்கு, வண்ணம் மாறிமாறி வரும் கட்டங்களாக இடு.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045317177,
+    "type": "search",
+    "timestamp": "2026-07-14T16:08:37.177Z",
+    "details": {
+      "word": "bodice",
+      "tamil": "n. மகளிர்சட்டை, கச்சு,",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045512243,
+    "type": "search",
+    "timestamp": "2026-07-14T16:11:52.243Z",
+    "details": {
+      "word": "computer",
+      "tamil": "n. கணக்கிடுபவர், கணக்கிடும் பெரிய பொறி.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045526543,
+    "type": "search",
+    "timestamp": "2026-07-14T16:12:06.543Z",
+    "details": {
+      "word": "counter",
+      "tamil": "-1 n. எண்ணுபவர், கணக்கிடுபவர், கணக்கிடும் பொறி, எண்குரு, எண்காட்டி, குறிவில்லை, நாணயக் கணக்கீட்டுக்குப் பயன்படும் நாணயப் போலிவட்டு, பொருளக வினைமுகப்பு, பணம் எண்ணிக் கொடுக்கல் வாங்கல் செய்யப்படும் மேடை, வாணிகக்களத் தொழிலிட முகப்பு, பொருள் கொடுக்கல் வாங்கல்",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045729905,
+    "type": "grammar_lesson",
+    "timestamp": "2026-07-14T16:15:29.905Z",
+    "details": {
+      "lessonId": "nouns",
+      "title": "Nouns (பெயர்ச்சொல்)",
+      "language": "english"
+    }
+  },
+  {
+    "id": 1784045947226,
+    "type": "search",
+    "timestamp": "2026-07-14T16:19:07.226Z",
+    "details": {
+      "word": "seer",
+      "tamil": "-1 n. பார்ப்பவர், மெய்யுணர்வாளர், அறிவர்.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784045967262,
+    "type": "search",
+    "timestamp": "2026-07-14T16:19:27.262Z",
+    "details": {
+      "word": "hockey",
+      "tamil": "n. வளைகோற்பந்தாட்டம்.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784046102607,
+    "type": "search",
+    "timestamp": "2026-07-14T16:21:42.607Z",
+    "details": {
+      "word": "karma",
+      "tamil": "n. கர்மம்,முன்வினைப் பயன்.",
+      "searchMode": "eng-to-tam"
+    }
+  },
+  {
+    "id": 1784046111767,
+    "type": "grammar_lesson",
+    "timestamp": "2026-07-14T16:21:51.767Z",
+    "details": {
+      "lessonId": "tamil-adjectives",
+      "title": "தமிழ் பெயரடைகள் (Tamil Adjectives)",
+      "language": "tamil"
+    }
+  }
+]

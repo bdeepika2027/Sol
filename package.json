@@ -1,0 +1,17 @@
+{
+  "name": "sol-dictionary",
+  "version": "1.0.0",
+  "description": "Sol - English to Tamil Offline Dictionary & Vocabulary Builder",
+  "main": "index.html",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dictionary",
+    "tamil",
+    "english",
+    "offline"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
